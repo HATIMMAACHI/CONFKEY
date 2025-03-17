@@ -20,7 +20,7 @@
                 <li><a href="index.jsp">Accueil</a></li>
                 <li><a href="createconf.jsp">Créer une Conférence</a></li>
                 <li><a href="login.jsp">Se Connecter</a></li>
-                <li><a href="regiter.jsp">Créer un Compte</a></li>
+                <li><a href="register.jsp">Créer un Compte</a></li>
             </ul>
         </nav>
     </header>
