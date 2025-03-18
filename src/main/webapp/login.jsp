@@ -11,9 +11,9 @@
 </head>
 
 <body>
- <header>
+    <header>
         <div class="logo">
-            <img src="images/conKey.png" alt="Logo Plateforme" with="500">
+            <img src="images/conKey.png" alt="Logo Plateforme" >
             <h1><span class="conf">Conf</span><span class="key">Key</span></h1>
         </div>
         <nav>
@@ -25,6 +25,10 @@
             </ul>
         </nav>
     </header>
+
+ 
+
+    <!-- Formulaire de Connexion -->
     <div class="container">
         <h1>Connexion</h1>
         <form action="loginServlet" method="post">
@@ -39,8 +43,8 @@
 
         <p style="text-align:center; margin-top:15px;">Pas encore de compte ? <a href="register.jsp" style="color:#00bfff;">Créer un compte</a></p>
     </div>
-</body>
- <!-- Pied de Page -->
+
+    <!-- Pied de Page -->
     <footer>
         <p>Contact : contact@plateforme-scientifique.com</p>
         <p><a href="#">Mentions légales</a> | <a href="#">Politique de confidentialité</a></p>
@@ -50,5 +54,6 @@
             <a href="#"><img src="images/X.png" alt="Twitter"></a>
         </div>
     </footer>
+</body>
 
 </html>
